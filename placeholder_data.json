@@ -1,0 +1,24 @@
+{
+  "heritage_sites": [
+    {
+      "id": "victoria-memorial",
+      "name": "Victoria Memorial",
+      "location": "Kolkata, West Bengal",
+      "gps": { "lat": 22.5448, "lng": 88.3426 },
+      "short_description": "An iconic marble monument dedicated to the memory of Queen Victoria.",
+      "full_history": "The Victoria Memorial is a large marble building on the Maidan in Central Kolkata, built between 1906 and 1921. It is dedicated to the memory of Queen Victoria, then Empress of India, and is now a museum and tourist destination under the auspices of the Ministry of Culture.",
+      "bot_story_script": "Hello! The Victoria Memorial is not just a monument, but a symbol of Kolkata's history. Did you know that the angel on top of the dome, known as the 'Angel of Victory', acts as a weather vane? Let me tell you more about its fascinating construction..."
+    }
+  ],
+  "cultural_topics": [
+    {
+      "id": "durga-puja",
+      "name": "Durga Puja",
+      "description": "A major Hindu festival originating in the Indian subcontinent which reveres and pays homage to the Hindu goddess, Durga. It is particularly popular in West Bengal, especially in Kolkata.",
+      "reels": [
+        "path/to/video1.mp4",
+        "path/to/video2.mp4"
+      ]
+    }
+  ]
+} 
